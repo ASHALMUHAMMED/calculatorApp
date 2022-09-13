@@ -1,0 +1,9 @@
+.buttonBox{
+    background: #f2f3f4;
+    width: 250px;
+    height: 250px;
+   
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 0.5rem;
+}
